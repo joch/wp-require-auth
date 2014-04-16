@@ -3,7 +3,7 @@ Contributors: joch
 Donate link: http://johnny.chadda.se/donate/
 Tags: authentication, security
 Requires at least: 2.0
-Tested up to: 3.8.1
+Tested up to: 3.9
 Stable tag: 1.0.2
 
 This plugin makes it mandatory to be logged in before viewing any content.
